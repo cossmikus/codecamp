@@ -8,7 +8,7 @@ const plans = [
     name: "Free",
     monthlyPrice: 0,
     annualPrice: 0,
-    description: "Perfect for trying out codecamp",
+    description: "Perfect for trying out mascotcraft",
     highlighted: false,
     features: {
       "Characters per month": "3",
@@ -368,7 +368,7 @@ export default function PricingClient() {
             14-Day Money-Back Guarantee
           </h2>
           <p className="text-slate-400 mb-8 leading-relaxed max-w-xl mx-auto">
-            Not happy with codecamp? Get a full refund within 14 days of your
+            Not happy with mascotcraft? Get a full refund within 14 days of your
             first paid subscription — no questions asked. Processed through
             Paddle, our trusted payment partner.
           </p>

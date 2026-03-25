@@ -4,7 +4,7 @@ import LegalLayout from "@/components/LegalLayout";
 export const metadata: Metadata = {
   title: "Terms of Service",
   description:
-    "Terms of Service for codecamp.asia — AI-powered character and mascot creation platform.",
+    "Terms of Service for mascotcraft.ai — AI-powered character and mascot creation platform.",
 };
 
 export default function TermsPage() {
@@ -12,20 +12,20 @@ export default function TermsPage() {
     <LegalLayout title="Terms of Service">
       <h2>1. Acceptance of Terms</h2>
       <p>
-        By accessing or using codecamp.asia (the &quot;Service&quot;), you agree to be
+        By accessing or using mascotcraft.ai (the &quot;Service&quot;), you agree to be
         bound by these Terms of Service (&quot;Terms&quot;). If you do not agree to these
         Terms, please do not use the Service. These Terms apply to all users,
         including visitors, registered users, and subscribers.
       </p>
       <p>
-        The Service is operated by codecamp.asia (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;). By
+        The Service is operated by mascotcraft.ai (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;). By
         using the Service, you confirm that you are at least 13 years old and
         have the legal capacity to enter into these Terms.
       </p>
 
       <h2>2. Description of Service</h2>
       <p>
-        codecamp.asia provides an AI-powered platform for creating custom
+        mascotcraft.ai provides an AI-powered platform for creating custom
         characters, mascots, and avatars (collectively, &quot;Characters&quot;). Users can
         generate, customize, and export Characters in various formats, including
         PNG, SVG, and GIF, subject to their subscription plan.
@@ -54,7 +54,7 @@ export default function TermsPage() {
 
       <h2>4. Subscription and Billing</h2>
       <p>
-        codecamp.asia offers subscription-based plans (Free, Pro, and Business).
+        mascotcraft.ai offers subscription-based plans (Free, Pro, and Business).
         Paid subscriptions are processed through <strong>Paddle</strong>, which
         acts as our Merchant of Record. All payment processing, tax collection,
         and billing disputes are handled by Paddle.
@@ -104,7 +104,7 @@ export default function TermsPage() {
       <h3>5.2 Our Intellectual Property</h3>
       <p>
         The Service, including all software, algorithms, UI/UX designs, and
-        underlying AI models, remains the exclusive property of codecamp.asia.
+        underlying AI models, remains the exclusive property of mascotcraft.ai.
         Nothing in these Terms grants you ownership of the Service itself.
       </p>
 
@@ -165,7 +165,7 @@ export default function TermsPage() {
 
       <h2>9. Limitation of Liability</h2>
       <p>
-        TO THE FULLEST EXTENT PERMITTED BY LAW, codecamp.asia SHALL NOT BE
+        TO THE FULLEST EXTENT PERMITTED BY LAW, mascotcraft.ai SHALL NOT BE
         LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
         PUNITIVE DAMAGES ARISING FROM YOUR USE OF THE SERVICE. Our total
         liability to you for any claims related to the Service shall not exceed
@@ -198,7 +198,7 @@ export default function TermsPage() {
         <strong>Email:</strong>{" "}
         <a href="mailto:cossmikus@gmail.com">cossmikus@gmail.com</a>
         <br />
-        <strong>Website:</strong> codecamp.asia
+        <strong>Website:</strong> mascotcraft.ai
       </p>
     </LegalLayout>
   );

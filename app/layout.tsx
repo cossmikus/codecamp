@@ -4,10 +4,10 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://codecamp.asia"),
+  metadataBase: new URL("https://mascotcraft.ai"),
   title: {
-    default: "codecamp — AI-Powered Character & Mascot Creator",
-    template: "%s | codecamp",
+    default: "mascotcraft — AI-Powered Character & Mascot Creator",
+    template: "%s | mascotcraft",
   },
   description:
     "Create stunning AI-powered custom characters and mascots in seconds. Export in PNG, SVG, and GIF. Perfect for branding, social media, and games.",
@@ -21,15 +21,15 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://codecamp.asia",
-    siteName: "codecamp",
-    title: "codecamp — AI-Powered Character & Mascot Creator",
+    url: "https://mascotcraft.ai",
+    siteName: "mascotcraft",
+    title: "mascotcraft — AI-Powered Character & Mascot Creator",
     description:
       "Create stunning AI-powered custom characters and mascots in seconds.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "codecamp — AI-Powered Character & Mascot Creator",
+    title: "mascotcraft — AI-Powered Character & Mascot Creator",
     description:
       "Create stunning AI-powered custom characters and mascots in seconds.",
   },

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "codecamp — AI-Powered Character & Mascot Creator",
+  title: "mascotcraft — AI-Powered Character & Mascot Creator",
   description:
     "Create stunning AI-powered custom characters and mascots in seconds. Export in PNG, SVG, and GIF. Perfect for branding, social media, and games.",
 };
@@ -48,7 +48,7 @@ const features = [
 
 const faqs = [
   {
-    q: "Do I need design skills to use codecamp?",
+    q: "Do I need design skills to use mascotcraft?",
     a: "Not at all! Just describe your character in plain language — like \"a friendly robot with blue eyes and a space helmet\" — and our AI handles the rest. You can then tweak the result with our visual editor.",
   },
   {
@@ -78,7 +78,7 @@ const plans = [
     name: "Free",
     price: "$0",
     period: "",
-    description: "Perfect for trying out codecamp",
+    description: "Perfect for trying out mascotcraft",
     features: [
       "3 characters per month",
       "Basic styles only",
@@ -478,7 +478,7 @@ export default function HomePage() {
                 <span className="gradient-text">first character?</span>
               </h2>
               <p className="text-slate-400 text-lg mb-8 max-w-xl mx-auto">
-                Join 1,200+ creators already using codecamp. Start for free —
+                Join 1,200+ creators already using mascotcraft. Start for free —
                 no credit card required.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

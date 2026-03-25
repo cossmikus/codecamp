@@ -5,7 +5,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Contact Us",
   description:
-    "Get in touch with the codecamp.asia team. We typically respond within 24 hours.",
+    "Get in touch with the mascotcraft.ai team. We typically respond within 24 hours.",
 };
 
 export default function ContactPage() {

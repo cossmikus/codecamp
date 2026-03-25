@@ -16,7 +16,7 @@ export default function Navbar() {
               c
             </div>
             <span className="font-bold text-lg text-white tracking-tight">
-              codecamp
+              mascotcraft
             </span>
           </Link>
 

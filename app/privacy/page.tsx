@@ -4,14 +4,14 @@ import LegalLayout from "@/components/LegalLayout";
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description:
-    "Privacy Policy for codecamp.asia — how we collect, use, and protect your personal data.",
+    "Privacy Policy for mascotcraft.ai — how we collect, use, and protect your personal data.",
 };
 
 export default function PrivacyPage() {
   return (
     <LegalLayout title="Privacy Policy">
       <p>
-        This Privacy Policy explains how codecamp.asia (&quot;we,&quot; &quot;us,&quot; or
+        This Privacy Policy explains how mascotcraft.ai (&quot;we,&quot; &quot;us,&quot; or
         &quot;our&quot;) collects, uses, and protects your personal information when you
         use our Service. We are committed to protecting your privacy and
         complying with applicable data protection laws, including the General
@@ -213,7 +213,7 @@ export default function PrivacyPage() {
         <strong>Email:</strong>{" "}
         <a href="mailto:cossmikus@gmail.com">cossmikus@gmail.com</a>
         <br />
-        <strong>Website:</strong> codecamp.asia
+        <strong>Website:</strong> mascotcraft.ai
       </p>
       <p>
         If you are in the EU/EEA and believe we have not adequately addressed

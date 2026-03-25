@@ -5,14 +5,14 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Refund Policy",
   description:
-    "Refund Policy for codecamp.asia — 14-day money-back guarantee for first-time subscribers.",
+    "Refund Policy for mascotcraft.ai — 14-day money-back guarantee for first-time subscribers.",
 };
 
 export default function RefundPage() {
   return (
     <LegalLayout title="Refund Policy">
       <p>
-        At codecamp.asia, we want you to be completely satisfied with your
+        At mascotcraft.ai, we want you to be completely satisfied with your
         subscription. This Refund Policy explains when and how you can request a
         refund. All refunds are processed through{" "}
         <strong>Paddle</strong>, our Merchant of Record.
@@ -21,7 +21,7 @@ export default function RefundPage() {
       <h2>1. 14-Day Money-Back Guarantee</h2>
       <p>
         We offer a <strong>14-day money-back guarantee</strong> for first-time
-        paid subscribers to codecamp.asia. If you are not satisfied with your
+        paid subscribers to mascotcraft.ai. If you are not satisfied with your
         subscription for any reason, you may request a full refund within 14
         days of your initial payment.
       </p>
@@ -85,7 +85,7 @@ export default function RefundPage() {
         </li>
         <li>
           It must be your <strong>first paid subscription</strong> to
-          codecamp.asia
+          mascotcraft.ai
         </li>
         <li>
           Your account must be in good standing (not suspended for policy

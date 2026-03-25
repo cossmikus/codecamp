@@ -30,7 +30,7 @@ export default function Footer() {
                 c
               </div>
               <span className="font-bold text-lg text-white tracking-tight">
-                codecamp
+                mascotcraft
               </span>
             </Link>
             <p className="text-sm text-slate-500 leading-relaxed mb-4">
@@ -69,7 +69,7 @@ export default function Footer() {
 
         <div className="border-t border-brand-border pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-slate-600">
-            © {new Date().getFullYear()} codecamp.asia. All rights reserved.
+            © {new Date().getFullYear()} mascotcraft.ai. All rights reserved.
           </p>
           <p className="text-sm text-slate-600">
             Payments securely processed by{" "}
