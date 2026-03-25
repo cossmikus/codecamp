@@ -12,13 +12,6 @@ export default function LegalLayout({
   return (
     <div className="py-16 sm:py-24">
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
-        {/* Disclaimer banner */}
-        <div className="mb-8 p-4 rounded-xl bg-amber-500/10 border border-amber-500/20 text-sm text-amber-300">
-          <strong>Legal Disclaimer:</strong> This document is a template and
-          should be reviewed by a qualified legal professional before use. It
-          does not constitute legal advice.
-        </div>
-
         <div className="mb-10">
           <p className="text-sm text-slate-500 mb-2">
             Last updated: {lastUpdated}
